@@ -1,3 +1,7 @@
+print("Name: Jatin Kshatriya")
+print("Enrollment no: 0108AI201024")
+print("Scholar no: 30494")
+
 from csv import reader
 
 opened_file = open('Task3/AppleStore.csv', 'r', encoding='utf-8')
